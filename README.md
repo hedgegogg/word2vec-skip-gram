@@ -1,0 +1,1 @@
+This is implementation of word2vec model using skip-grams with negative sampling. The whole training pipeline contains in .`word2vec.ipynb` notebook.
